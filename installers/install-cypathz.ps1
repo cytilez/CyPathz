@@ -14,10 +14,10 @@ if (-not (Test-Path $cyPathFile)){
     New-Item -ItemType File -Path $cyPathFile | Out-Null
 }
 
-$sourceExe = "$PSScriptRoot\..\bin\Release\net10.0\win-x64\publish\CyPathz.exe"
+$binaryUrl = "https://github.com/cytilez/CyPathz/releases/download/v0.1.0/CyPathz.Windows_x64.exe"
 $targetExe = "$binPath\cypathz.exe"
 
-Copy-Item -Path $sourceExe -Destination $targetExe -Force
+Invoke-WebRequest -Uri $binaryUrl -OutFile $targetExe
 
 $wrapper = @'
 

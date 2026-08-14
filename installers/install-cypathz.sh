@@ -14,10 +14,10 @@ if [ ! -f "$cy_path_file" ]; then
     touch "$cy_path_file"
 fi
 
-source_exe="$script_dir/../bin/Release/net10.0/linux-x64/publish/CyPathz"
+binary_url="https://github.com/cytilez/CyPathz/releases/download/v0.1.0/CyPathz.linux_x64"
 target_exe="$bin_path/cypathz"
 
-cp -f "$source_exe" "$target_exe"
+curl -fL "$binary_url" -o "$target_exe"
 chmod +x "$target_exe"
 
 wrapper='
