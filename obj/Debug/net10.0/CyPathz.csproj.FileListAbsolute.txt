@@ -1,0 +1,14 @@
+C:\Users\User\projects\CyPathz\bin\Debug\net10.0\CyPathz.exe
+C:\Users\User\projects\CyPathz\bin\Debug\net10.0\CyPathz.deps.json
+C:\Users\User\projects\CyPathz\bin\Debug\net10.0\CyPathz.runtimeconfig.json
+C:\Users\User\projects\CyPathz\bin\Debug\net10.0\CyPathz.dll
+C:\Users\User\projects\CyPathz\bin\Debug\net10.0\CyPathz.pdb
+C:\Users\User\projects\CyPathz\obj\Debug\net10.0\CyPathz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\projects\CyPathz\obj\Debug\net10.0\CyPathz.AssemblyInfoInputs.cache
+C:\Users\User\projects\CyPathz\obj\Debug\net10.0\CyPathz.AssemblyInfo.cs
+C:\Users\User\projects\CyPathz\obj\Debug\net10.0\CyPathz.csproj.CoreCompileInputs.cache
+C:\Users\User\projects\CyPathz\obj\Debug\net10.0\CyPathz.dll
+C:\Users\User\projects\CyPathz\obj\Debug\net10.0\refint\CyPathz.dll
+C:\Users\User\projects\CyPathz\obj\Debug\net10.0\CyPathz.pdb
+C:\Users\User\projects\CyPathz\obj\Debug\net10.0\CyPathz.genruntimeconfig.cache
+C:\Users\User\projects\CyPathz\obj\Debug\net10.0\ref\CyPathz.dll

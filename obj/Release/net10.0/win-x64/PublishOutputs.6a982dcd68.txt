@@ -1,0 +1,2 @@
+C:\Users\User\projects\CyPathz\bin\Release\net10.0\win-x64\publish\CyPathz.pdb
+C:\Users\User\projects\CyPathz\bin\Release\net10.0\win-x64\publish\CyPathz.exe
