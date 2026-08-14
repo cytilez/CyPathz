@@ -1,17 +1,16 @@
-## Install
+##Install
 
 ### Windows x64 — PowerShell
 
+```powershell
 irm https://raw.githubusercontent.com/cytilez/CyPathz/main/installers/install-cypathz.ps1 | iex
-
-###
+```
 
 ### Linux x64 — Bash
 
+```bash
 curl -fsSL https://raw.githubusercontent.com/cytilez/CyPathz/main/installers/install-cypathz.sh | bash && source ~/.bashrc
-
-###
-
+```
 
 CyPathz is a path shortcut tool, for quickly jumping between directories 
 in Powershell and Bash.
