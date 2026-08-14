@@ -12,18 +12,18 @@ irm https://raw.githubusercontent.com/cytilez/CyPathz/main/installers/install-cy
 curl -fsSL https://raw.githubusercontent.com/cytilez/CyPathz/main/installers/install-cypathz.sh | bash && source ~/.bashrc
 ```
 
-CyPathz is a path shortcut tool, for quickly jumping between directories 
+CyPathz is a path shortcut tool, for quickly storing and jumping between directories 
 in Powershell and Bash.
 
 It a simple script that lets you store a path to a name, and then call that 
 name to get stright into the directory.
 
-the comandlit is 'cy'
+my chosen cmdlet is 'cy'
 
-then  'cy add Doc' will store 'Doc' at the current directory
+then  'cy add Doc' will store 'Doc' together with a path to the current directory
 then  'cy Doc' will take you straigh to that directory
 
-The full Comanlit list is 
+The full Command list is :
 
 cy add name  -   store path to name
 cy rm  name  -   remove path and name
